@@ -28,10 +28,6 @@
 	</array>
 	<key>Definitions</key>
 	<dict>
-	    <key>INFO_PLIST_PATH</key>
-        	<string>$(PROJECT_NAME)/info.plist</string>
-        <key>GENERATE_INFOPLIST_FILE</key>
-        	<string>NO</string>
 		<key>icon.png</key>
 		<dict>
 			<key>TargetIndices</key>
