@@ -39,6 +39,8 @@
 				<string>NO</string>
 				<key>MonkeyDevInstallOnAnyBuild</key>
 				<string>YES</string>
+				<key>ENABLE_USER_SCRIPT_SANDBOXING</key>
+    			<string>NO</string>
 			</dict>
 		</dict>
 	</array>
