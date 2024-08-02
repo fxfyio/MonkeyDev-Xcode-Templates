@@ -78,6 +78,8 @@
 			<string>8.0</string>
 			<key>FRAMEWORK_SEARCH_PATHS</key>
 			<string>$(MonkeyDevPath)/frameworks/** $(MonkeyDevTheosPath)/vendor/lib</string>
+			<key>ENABLE_USER_SCRIPT_SANDBOXING</key>
+    		<string>NO</string>
 		</dict>
 		<key>SDK</key>
 		<string>iphoneos</string>
