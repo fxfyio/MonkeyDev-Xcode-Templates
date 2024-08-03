@@ -189,7 +189,7 @@
 		<key>SharedSettings</key>
 		<dict>
 			<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-			<string>8.0</string>
+			<string>14.0</string>
 			<key>ENABLE_USER_SCRIPT_SANDBOXING</key>
     		<string>NO</string>
 		</dict>
